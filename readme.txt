@@ -1,8 +1,15 @@
+#Terrain
+
 Created by: Navleen Singh
 Student#: 1302228
 
 Some of the code was found online they are all sighted above the function.
-Extra libraries included are: vector, math, iostream  
+Extra libraries included are: vector, math, iostream.
+
+This application generates 3 different types of terrains (Flat, Hills and Fault). 
+There are 2 different windows 3D and 2D, the 3D is intractable with key presses.
+This application implements shading, lighting, and material.
+
 
 
 "Enter meshsize between 50 to 300: "
